@@ -4,8 +4,7 @@ const Navbar = () => {
     return (
         <nav className="nav-wrapper grey darken-3">
             <div className="container">
-                <h3>Daily Planner</h3>
-
+                <div className="brand-logo">Daily Planner</div>
             </div>
         </nav>
     )
